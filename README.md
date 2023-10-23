@@ -6,7 +6,7 @@
   <img align="right" top="300" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently learning: Software Engineering.
+- 🌱 I’m currently learning: C# and AWS.
 
 - 🤝 I’m currently open for: **A new job opportunity.**
 
