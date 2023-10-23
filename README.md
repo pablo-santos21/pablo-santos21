@@ -1,5 +1,5 @@
 <h1 align="center">hi there I'm Pablo👋</h1>
-<h3 align="center">I am a software engineering student 👨‍💻</h3>
+<h3 align="center">I am a software engineer student 👨‍💻</h3>
 <br>
 
 <a target="_blank" align="center">
