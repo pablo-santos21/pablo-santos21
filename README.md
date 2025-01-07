@@ -1,5 +1,7 @@
-<h1 align="center">hi there I'm Pablo👋</h1>
-<h3 align="center">I am a software engineer student 👨‍💻</h3>
+<h1 align="center">Hello, welcome to my GitHub!</br>
+I'm Pablo Santos👋</h1>
+<h3 align="center">but can call me binho.</h3>
+<h3 align="center">I am a software engineer 👨‍💻</h3>
 <br>
 
 <a target="_blank" align="center">
@@ -10,13 +12,13 @@
 
 - 🤝 I’m currently open for: **A new job opportunity.**
 
-- 💬 Ask me about **JavaScript, ReactJS, TypeScript**
+- 💬 Ask me about **C#, .NET, JavaScript, ReactJS**
 
 - 📫 How to reach me **pablovieira.san@gmail.com**
 
 - Fun fact: I love Coding(👨‍💻), traveling (🌍) and making friends (🤝).
 
-- I am learning .NET, Generative IA, Linux, Virtualization, Cloud Computing, and DevOps.
+- I am learning .NET, Generative IA, Linux, Cloud Computing and DevOps.
 
 <br><br>
 
